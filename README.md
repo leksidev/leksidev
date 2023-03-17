@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EF754&width=435&lines=Python+developer;Dart+(Flutter)+developer)](https://git.io/typing-svg)
 
-<figure><embed src="https://wakatime.com/share/@b4cca1bf-33dd-45f4-932b-399d8553b1cf/4848ae85-7323-4ab7-9b0a-bcaa1df0cb8e.svg"></embed></figure>
 
 <h2>Technologies</h2>
 
