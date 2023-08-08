@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Alexandra</h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EF754&width=435&lines=Python+developer;Dart+(Flutter)+developer)](https://git.io/typing-svg)
 
